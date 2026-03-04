@@ -45,8 +45,8 @@ const [theme, setTheme] = useState(() => {
 1. Clone the repository
 
 ```bash
-   git clone https://github.com/avicious/dark-mode-toggle.git
-   cd your-repo-name
+git clone https://github.com/avicious/dark-mode-toggle.git
+cd dark-mode-toggle
 ```
 
 2. Install dependencies
