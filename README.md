@@ -2,7 +2,7 @@
 
 A modern, high-performance Dark Mode implementation for React applications. This component features **System Preference detection**, and **LocalStorage persistence** support.
 
-## 🚀 Features
+## Features
 
 - **Tailwind v4 Optimized**: Uses the new `@import "tailwindcss"` engine and custom variants.
 - **System Aware**: Automatically detects the user's OS theme (Dark/Light) on first visit.
@@ -10,7 +10,7 @@ A modern, high-performance Dark Mode implementation for React applications. This
 - **Zero Flash**: Uses a lazy state initializer to prevent "theme flickering" on page load.
 - **Mobile Friendly**: Implements `min-h-screen` and `100dvh` for a perfect mobile layout.
 
-## ⚙️ Configuration
+## Configuration
 
 ### 1. CSS Setup (`index.css`)
 
@@ -40,7 +40,7 @@ const [theme, setTheme] = useState(() => {
 });
 ```
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository
 
