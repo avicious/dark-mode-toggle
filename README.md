@@ -2,6 +2,10 @@
 
 A modern, high-performance Dark Mode implementation for React applications. This component features **System Preference detection**, and **LocalStorage persistence** support.
 
+## Live Demo
+
+**Check out the live version of this project here:** [avicious.github.io/dark-mode-toggle/](https://avicious.github.io/dark-mode-toggle/)
+
 ## Features
 
 - **Tailwind v4 Optimized**: Uses the new `@import "tailwindcss"` engine and custom variants.
